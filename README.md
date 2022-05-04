@@ -19,4 +19,4 @@ This code is supposed to accompany the submitted work "More diverse reserve solu
 
 7. Results of the scenario simulation will be produced and stored in /3_results/your_scenario_name/ inside .csv files
 
-8. Figures associated with the results will be produced and stored in /4_report/your_scenario_name/ 
+8. Figures associated with the results will be produced and stored in /4_report/pictures/your_scenario_name/ 
