@@ -2,7 +2,7 @@
 Main goal is to produce a presentation set for the reserve site selection problem by explicitly accounting for differences between successive alternative solutions. 
 
 # Presentation set
-This code is developed alongside the published work "Brunel, A., Omer, J. & Lanco Bertrand, S. Producing a Diverse Set of Near-Optimal Reserve Solutions with Exact Optimisation. Environ Model Assess 28, 619–634 (2023). https://doi.org/10.1007/s10666-022-09862-1". 
+This code is developed alongside the published work "Brunel, A., Omer, J. & Lanco Bertrand, S. **Producing a Diverse Set of Near-Optimal Reserve Solutions with Exact Optimisation**. _Environ Model Assess 28, 619–634 (2023)_. https://doi.org/10.1007/s10666-022-09862-1". 
 
 # General information
 1. If this is the first time the code run on your computer, you have to install manually the packages loaded in load_path_pkg.jl.  
