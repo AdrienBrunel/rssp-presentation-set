@@ -1,5 +1,5 @@
 # rssp-presentation-set
-Main goal is to produce a presentation set for the reserve site selection problem by explicitly accounting for differences between successive alternative solutions. 
+The main goal is to produce a presentation set for the reserve site selection optimisation problem by explicitly accounting for differences between successive alternative solutions. 
 
 # Publication
 This code is developed alongside the published work "Brunel, A., Omer, J. & Lanco Bertrand, S. **Producing a Diverse Set of Near-Optimal Reserve Solutions with Exact Optimisation**. _Environ Model Assess 28, 619–634 (2023)_. [https://doi.org/10.1007/s10666-022-09862-1](https://doi.org/10.1007/s10666-022-09862-1)". 
